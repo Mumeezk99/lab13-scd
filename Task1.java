@@ -7,6 +7,7 @@ public class Task1 {
 		try{
 			System.out.println(number[1]);
 			System.out.println(number[11]);
+			System.out.println(number[11]);
 			}
 			catch(ArrayIndexOutOfBoundsException e){ 
 				System.out.println ("Array Index is Out Of Bounds");
